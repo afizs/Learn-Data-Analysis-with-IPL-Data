@@ -1,9 +1,9 @@
 ---
-title: Test
-description: Test
+title: Hello IPL !!
+description: Lets get started with Python
 
 ---
-## Sample exercise
+###  Python is a high-level programming language which means we need not to write the code in 0s and 1s. 
 
 ```yaml
 type: NormalExercise
