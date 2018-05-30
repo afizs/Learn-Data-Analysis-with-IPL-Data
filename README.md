@@ -1,11 +1,10 @@
-# **Course Title**<br/>by **Course Author**
+# **Learn Data Analysis with IPL Data**<br/>by **Afiz**
 
 Specs deadline: YYYY-MM-DD
 
-*Please read the [course design process description](http://authoring.datacamp.com/courses/design/)
-and complete these steps in the `README.md` file in your course repository.
-If you need assistance,
-please speak with your Curriculum Lead.*
+*Data Analysis is all about finding valuable insights of the data. Lear Data Analysis with IPL data will teach Python programming in a fun way using IPL dataset. I used to play cricket a lot in my childhood. I was very much interested in the numbers of cricket like runrate during the powerplay and average score of toporder batsmen, but I didn't have access to data that time. Now we have access to data and technology which allow us to explore all these details. In this course we will learn how to load the data and explore the data to find out valuable insights of it.
+
+*
 
 ## Course development resources
 
